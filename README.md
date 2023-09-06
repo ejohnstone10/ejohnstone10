@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ejohnstone10
 - 👀 I’m interested in ... hacking my ADHD with some more "brain-like" tools
-- 🌱 I’m currently learning ...how to use Obsidian, Lucidchart, and Github and the concept of local markup text (did I even say that right?) vs actually thinking the cloud was the least risky place to store stuff
-- 💞️ I’m looking to collaborate on ...IDK ask me when I master these tools
+- 🌱 I’m currently learning ...how to use Obsidian, Lucidchart, and Github 
+- 💞️ I’m looking to collaborate on ...Exceptional ways of managing adhd and while having to handle 9 gazillion things
 - 📫 How to reach me ...I can't believe I have to ask myself if Github has an inbox/messaging system
 
 <!---
