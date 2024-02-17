@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ejohnstone10
 - 👀 I’m interested in ... hacking my ADHD with some more "brain-like" tools
-- 🌱 I’m currently learning ...how to use Obsidian, Lucidchart, and Github 
+- 🌱 I’m currently learning ...how to use Obsidian.
 - 💞️ I’m looking to collaborate on ...Exceptional ways of managing adhd and while having to handle 9 gazillion things
-- 📫 How to reach me ...I can't believe I have to ask myself if Github has an inbox/messaging system
+
 
 <!---
 ejohnstone10/ejohnstone10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
