@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ejohnstone10
 - 👀 I’m interested in ... hacking my ADHD with some more "brain-like" tools
 - 🌱 I’m currently learning ...how to use Obsidian.
-- 💞️ I’m looking to collaborate on ...Exceptional ways of managing adhd and while having to handle 9 gazillion things
+- 💞️ I’m looking to collaborate on ...TBD
 
 
 <!---
